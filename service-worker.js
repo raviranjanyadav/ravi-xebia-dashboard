@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ravi-xebia-dashboard/precache-manifest.b2bbba14625d86a88dc9a3abd8398f30.js"
+  "/ravi-xebia-dashboard/precache-manifest.39da28d414089566992dbc897232e67b.js"
 );
 
 self.addEventListener('message', (event) => {

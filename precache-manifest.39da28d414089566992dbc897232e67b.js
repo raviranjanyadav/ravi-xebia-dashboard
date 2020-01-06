@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb06d7690ef09490f7b95b1a43d9404a",
+    "revision": "d5cb59b576eba93f81d874ae4f6a4a0a",
     "url": "/ravi-xebia-dashboard/index.html"
   },
   {
-    "revision": "716968b781f0a3188db5",
+    "revision": "338a7217549066a75e42",
     "url": "/ravi-xebia-dashboard/static/css/main.9006e647.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ravi-xebia-dashboard/static/js/2.d8542783.chunk.js"
   },
   {
-    "revision": "716968b781f0a3188db5",
-    "url": "/ravi-xebia-dashboard/static/js/main.bc7dadbf.chunk.js"
+    "revision": "338a7217549066a75e42",
+    "url": "/ravi-xebia-dashboard/static/js/main.a5da3b3a.chunk.js"
   },
   {
     "revision": "92394a048f73bd16967f",
