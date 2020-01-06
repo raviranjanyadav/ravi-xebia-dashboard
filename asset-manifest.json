@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ravi-xebia-dashboard/static/css/main.9006e647.chunk.css",
+    "main.js": "/ravi-xebia-dashboard/static/js/main.bc7dadbf.chunk.js",
+    "main.js.map": "/ravi-xebia-dashboard/static/js/main.bc7dadbf.chunk.js.map",
+    "runtime~main.js": "/ravi-xebia-dashboard/static/js/runtime~main.d29bbfb3.js",
+    "runtime~main.js.map": "/ravi-xebia-dashboard/static/js/runtime~main.d29bbfb3.js.map",
+    "static/js/2.d8542783.chunk.js": "/ravi-xebia-dashboard/static/js/2.d8542783.chunk.js",
+    "static/js/2.d8542783.chunk.js.map": "/ravi-xebia-dashboard/static/js/2.d8542783.chunk.js.map",
+    "index.html": "/ravi-xebia-dashboard/index.html",
+    "precache-manifest.b2bbba14625d86a88dc9a3abd8398f30.js": "/ravi-xebia-dashboard/precache-manifest.b2bbba14625d86a88dc9a3abd8398f30.js",
+    "service-worker.js": "/ravi-xebia-dashboard/service-worker.js",
+    "static/css/main.9006e647.chunk.css.map": "/ravi-xebia-dashboard/static/css/main.9006e647.chunk.css.map"
+  }
+}
